@@ -36,7 +36,7 @@ El comportamiento se logro interviniendo sobre el origen del dato y no sobre el 
 
 - Camino principal: verificado por el estudiante en partida manual. Un segmento en movimiento horizontal destruido antes de llegar al tile siguiente genera el hongo un tile en la direccion de avance, en la misma fila. Un segmento de cuerpo, que era el caso que fallaba, responde igual que una cabeza.
 - Caso limite: verificado por el estudiante. La destruccion con el segmento a mitad de tile coloca el hongo en el vecino de la direccion de viaje, porque el destino se calcula sobre indices de grilla y no sobre pixeles crudos. Tambien se verificaron el descenso, el ascenso dentro de la zona del jugador y la caida inicial.
-- Version validada: [PENDIENTE: hash de commit]. El agente no ejecuto git y no conoce el commit.
+- Version validada: commit `89a10e15ae0b9927b86aa177894221c05100241a` (commit de la intervencion).
 
 ## Limites y riesgos pendientes
 

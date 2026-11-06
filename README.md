@@ -94,5 +94,6 @@ La consigna sugiere `src/` y `tests/` en la raiz. Este proyecto conserva su estr
 - Herramienta: OpenCode. Modelo: Big Pickle.
 - Validacion: no hay comandos de prueba automatizados. La validacion fue una secuencia manual reproducible con `npm run dev`, registrada en `docs/evidencia-pruebas.md`.
 - URL del repositorio: https://github.com/Emanuel-Dayer/Piapc-Plantilla-Agente-Parcial-1-Emanuel-Dayer
+- Commit de la intervencion: 89a10e15ae0b9927b86aa177894221c05100241a
 - El repositorio no contiene secretos, credenciales ni datos privados. El `.gitignore` de la raiz excluye `.env` y `.env.*`.
 
