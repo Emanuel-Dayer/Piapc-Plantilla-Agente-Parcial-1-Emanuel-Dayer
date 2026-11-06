@@ -6,3 +6,7 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+
+# Dependencias y build del proyecto Centipede (Phaser + Vite).
+Centipede/node_modules/
+Centipede/dist/
